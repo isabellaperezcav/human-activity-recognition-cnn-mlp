@@ -73,7 +73,7 @@ ejecutar el notebook:
 jupyter notebook notebooks/Tarea1_Tensores_PyTorch_.ipynb
 ```
 
-## 🧪 Tecnologías
+## Tecnologías
 
 * Python 3
 * PyTorch
@@ -81,7 +81,7 @@ jupyter notebook notebooks/Tarea1_Tensores_PyTorch_.ipynb
 * Matplotlib
 * Scikit-learn
 
-## 👤 Autor
+## Autor
 
 Isabella Perez Caviedes
 
